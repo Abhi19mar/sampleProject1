@@ -4,3 +4,4 @@
 # I don't like online classes.
 # Online classes are boring.
 # Please open hostels.
+# Conduct classes online, but open the hostel.
